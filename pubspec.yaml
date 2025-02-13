@@ -1,0 +1,25 @@
+name: fundismart
+description: A new Flutter project
+
+publish_to: 'none' # Optional: if you're not publishing to pub.dev, you can leave this line
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^13.0.2
+  google_fonts: ^6.1.0  # Correct dependency with proper indentation
+http: ^0.13.5
+firebase_core: latest_version
+firebase_auth: latest_version
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

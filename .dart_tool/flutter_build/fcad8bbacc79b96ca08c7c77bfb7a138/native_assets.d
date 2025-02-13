@@ -1,0 +1,1 @@
+ C:\\Users\\Hp\\fundismart\\.dart_tool\\flutter_build\\fcad8bbacc79b96ca08c7c77bfb7a138\\native_assets.yaml: 
