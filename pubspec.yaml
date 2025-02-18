@@ -11,11 +11,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^2.0.9
   geolocator: ^13.0.2
-  google_fonts: ^6.1.0  # Correct dependency with proper indentation
-http: ^0.13.5
-firebase_core: latest_version
-firebase_auth: latest_version
+  google_fonts: ^6.1.0
+  cloud_firestore: ^5.6.3
+  http: 1.3.0
+  firebase_core: ^3.11.0  # Use the latest stable version
+  firebase_auth: ^5.4.2  # Use the latest stable version
+  geocoding: ^3.0.0
+  google_sign_in: ^6.2.2
+  flutter_facebook_auth: ^7.1.1
+  sign_in_with_apple: ^6.1.4
 
 dev_dependencies:
   flutter_test:
@@ -23,3 +29,17 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/icons/babysitters.svg
+    - assets/icons/carpenter.svg
+    - assets/icons/decoration.svg
+    - assets/icons/delivery.svg
+    - assets/icons/electrician.svg
+    - assets/icons/housemaid.svg
+    - assets/icons/install.svg
+    - assets/icons/locksmith.svg
+    - assets/icons/painter.svg
+    - assets/icons/pestcontrol.svg
+    - assets/icons/plumber.svg
+    - assets/icons/tutor.svg
+    - assets/icons/yard.svg

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Example of Firebase or Google Analytics tracking setup -->
+    <string name="ga_trackingId">UA-XXXXX-Y</string>
+    <!-- Add more configurations if necessary -->
+</resources>

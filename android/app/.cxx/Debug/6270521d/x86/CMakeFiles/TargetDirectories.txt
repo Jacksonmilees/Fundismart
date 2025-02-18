@@ -1,0 +1,2 @@
+E:/fundismart/android/app/.cxx/Debug/6270521d/x86/CMakeFiles/edit_cache.dir
+E:/fundismart/android/app/.cxx/Debug/6270521d/x86/CMakeFiles/rebuild_cache.dir
